@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=codice\ desc\ prezzo
+comment0.target=Prodotto(java.lang.String,\ java.lang.String,\ double)
+comment0.text=\r\n\ Costruttore\ degli\ oggetti\ di\ classe\ \ Prodotto\r\n
+comment1.params=
+comment1.target=java.lang.String\ ottieniCodice()
+comment1.text=\r\n\ Metodo\ ottieniCodice\r\n\ \r\n\ @param\ \ \r\n\ @return\ \ \ \ \ codice\ del\ prodotto\r\n
+comment2.params=
+comment2.target=java.lang.String\ ottieniDescrizione()
+comment2.text=\r\n\ Metodo\ ottieniDescrizione\r\n\ \r\n\ @param\ \ \r\n\ @return\ \ \ \ \ la\ descrizione\ del\ prodotto\r\n
+comment3.params=
+comment3.target=double\ ottieniPrezzo()
+comment3.text=\r\n\ Metodo\ ottieniPrezzo\r\n\ \r\n\ @param\ \ \r\n\ @return\ \ \ \ \ il\ prezzo\ del\ prodotto\r\n
+numComments=4
